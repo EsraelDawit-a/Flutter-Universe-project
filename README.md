@@ -10,7 +10,7 @@ Flutter project Abou Universe What did You Know About The Amazing Universe huh ?
 
                                                    Detail Page /Planets
 
-![aes](screen/img7.jpg) ![aes](screen/img5.jpg)
+![aes](screen/img7.jpg) ![aes](screen/big1.jpg) ![aes](screen/big2.jpg) ![aes](screen/big3.jpg)  ![aes](screen/big4.jpg)
 
                                                    Universe Facts Page
 
